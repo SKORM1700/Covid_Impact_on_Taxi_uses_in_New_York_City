@@ -6,7 +6,6 @@
  - Pandas
  - Data Wrangling
  - EDA
- - Tableau
 
 -|- PACE strategy to implement the project
   - Planning: In this stage project workflow is outlined, objectives definition, data collection, tools requried for project, and update to stakeholders
